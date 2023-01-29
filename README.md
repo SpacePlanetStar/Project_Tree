@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# Project Tree
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### (Project in Progress)
 
-## Available Scripts
+## Table of Contents
+* [Description](#description)
+* [Setup](#setup)
+* [Features](#features)
 
-In the project directory, you can run:
 
-### `npm start`
+## Description
+The project aims to provide a platform where users who have challenges with software solutions in their daily routines can find help from experts in the field. This platform will make it easier for people to get the assistance they need in a timely and efficient manner. The web application has a user-friendly interface, built with JavaScript, HTML, and CSS, that allows users to search for and connect with experts who can help them with their software issues. The data is stored and managed using Firebase, which ensures fast and secure access to information. This project has the potential to make a significant impact in the daily lives of people by helping them overcome software difficulties and increasing their overall efficiency.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Setup
+To run the project from GitHub, users would need to follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1.) Clone or download the project source code from the GitHub repository.
+2.) Install the necessary dependencies and software to run a JavaScript project (e.g. Node.js, npm, etc.).
+3.) Start a local server to host the project on your device.
+4.) Access the project in a browser using the localhost URL provided by the server.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Features
+* User registration and authentication: This would allow users to create and manage their accounts, and ensure that only authorized individuals can access the project's services.                                    
+* Data privacy and security: Measures to protect user data would be essential to building trust and ensuring the success of the project.
+* Request and booking system: A system for users to request assistance wth providers would streamline the process of getting help.
+* You cannot re-register on the website with the same email address.
